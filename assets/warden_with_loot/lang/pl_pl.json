@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Ślady Starożytnego Miasta",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Wejdź do Starożytnego Miasta",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Odzyskująca Dusza",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Zdobyć Kompas Powrotny",
+
+  "warden_with_loot.advancements.kill_warden.title": "Powrót Ciszy",
+  "warden_with_loot.advancements.kill_warden.description": "Pokonaj Strażnika\nWrzaskowiec nie będzie przez ciebie aktywowany przez pewien czas",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Echo Opuszczonego Miasta",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Odtwórz płytę muzyczną nr 5 w Starożytnym Mieście",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Artefakty",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Ukradnij skarby ze Starożytnego Miasta",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Przebudzenie",
+  "warden_with_loot.advancements.spawn_warden.description": "Wznieć potwora czającego się w ciemności",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Szybkie Skradanie",
+  "warden_with_loot.advancements.swift_sneak.description": "Założ nogawice ze Zwinym Skradaniem i skradaj się",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 Śmierci",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Aktywuj Wrzaskowca",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Ciche Otchłanie",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Wejdź do Głębokiej Ciemności"
+}

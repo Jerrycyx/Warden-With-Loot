@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Spår i den uråldriga staden",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Gå in i en uråldrig stad",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Återhämtande Själ",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Skaffa en återvinningskompass",
+
+  "warden_with_loot.advancements.kill_warden.title": "Återvänd till tystnad",
+  "warden_with_loot.advancements.kill_warden.description": "Besegra en Vaktare\nSkriksvampsblock utlöses inte av dig under en tid",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Eko i den tomma staden",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Spela skiva 5 i en uråldrig stad",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Relik",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Stjäl skatter från en uråldrig stad",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Uppvaknande",
+  "warden_with_loot.advancements.spawn_warden.description": "Stör det massiva väsendet i mörkret",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Snabb smygning",
+  "warden_with_loot.advancements.swift_sneak.description": "Håll ner shift med byxor som har snabb smygning",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 död",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Aktivera ett skriksvampsblock",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Den tysta avgrunden",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Gå in i den djupa mörkret"
+}

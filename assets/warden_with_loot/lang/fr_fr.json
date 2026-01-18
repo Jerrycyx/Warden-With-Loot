@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Traces de la cité antique",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Entrer dans une cité antique",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Âme en Rétablissement",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Obtenir une boussole de récupération",
+
+  "warden_with_loot.advancements.kill_warden.title": "Retour au silence",
+  "warden_with_loot.advancements.kill_warden.description": "Vaincre le Warden\nLes hurleurs sculks ne seront pas activés par vous pendant un certain temps",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Écho de la cité vide",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Jouer le disque 5 dans une cité antique",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Relique",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Voler un trésor dans une cité antique",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Réveil",
+  "warden_with_loot.advancements.spawn_warden.description": "Réveiller une créature colossale dans l'obscurité",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Furtivité rapide",
+  "warden_with_loot.advancements.swift_sneak.description": "Porter des jambières avec Furtivité rapide et se déplacer furtivement",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 de la mort",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Activer un hurleur sculk",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Abysses silencieux",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Entrer dans les profondeurs sombres"
+}

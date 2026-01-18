@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "El rastro de la Ciudad Antigua",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Adéntrate en una ciudad antigua",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Una alma recuperada",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Crea o consigue la brújula de recuperación",
+
+  "warden_with_loot.advancements.kill_warden.title": "De vuelta al silencio",
+  "warden_with_loot.advancements.kill_warden.description": "Derrota al Warden\nLos chilladores de sculk no se activarán temporalmente",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Los ecos de una ciudad abandonada",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Reproduce el disco 5 en la ciudad antigua",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Antiguas reliquias",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Saquea los tesoros de una ciudad antigua",
+
+  "warden_with_loot.advancements.spawn_warden.title": "El despertar...",
+  "warden_with_loot.advancements.spawn_warden.description": "Molesta a la colosal criatura que aguarda en la oscuridad",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Sigilo sigiloso",
+  "warden_with_loot.advancements.swift_sneak.description": "Equípate unas grebas con Sigilo veloz y agáchate",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "Dos más y estás fuera",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Activa un chillador de sculk",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Un abismo silencioso",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Adéntrate en la oscuridad profunda"
+}

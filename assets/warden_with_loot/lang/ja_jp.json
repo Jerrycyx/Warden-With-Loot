@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "古代都市を探して",
+  "warden_with_loot.advancements.enter_ancient_city.description": "古代都市に入る",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "回復する魂",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "回収コンパスを手に入れる",
+
+  "warden_with_loot.advancements.kill_warden.title": "静寂への回帰",
+  "warden_with_loot.advancements.kill_warden.description": "ウォーデンを倒す\n一定時間スクリークはあなたを感知しなくなる",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "廃墟の反響",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "古代都市でディスク5を再生する",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "遺物",
+  "warden_with_loot.advancements.loot_ancient_city.description": "古代都市の宝を奪う",
+
+  "warden_with_loot.advancements.spawn_warden.title": "覚醒",
+  "warden_with_loot.advancements.spawn_warden.description": "暗闇の巨獣を目覚めさせる",
+
+  "warden_with_loot.advancements.swift_sneak.title": "スウィフトスニーク",
+  "warden_with_loot.advancements.swift_sneak.description": "スウィフトスニークのエンチャントが付いたレギンスを装備し、スニークする",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "死の1/3",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "スクリークを1回作動させる",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "深淵の静寂",
+  "warden_with_loot.advancements.visit_deep_dark.description": "ディープダークに入る"
+}

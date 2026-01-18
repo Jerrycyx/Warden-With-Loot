@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Sporen in de Oude Stad",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Betreed de Oude Stad",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Herstellende Ziel",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Verkrijg een Herstelkompas",
+
+  "warden_with_loot.advancements.kill_warden.title": "Terug naar Stilte",
+  "warden_with_loot.advancements.kill_warden.description": "Versla de Warden\nSculkschreeuwers worden tijdelijk niet door jou geactiveerd",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Echo in de Verlaten Stad",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Speel muziekschijf 5 af in de Oude Stad",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Relikwie",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Steel de schat in de Oude Stad",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Ontwaken",
+  "warden_with_loot.advancements.spawn_warden.description": "Verstoor het reusachtige wezen in het donker",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Snelle Sluip",
+  "warden_with_loot.advancements.swift_sneak.description": "Draag een beenstuk met Snelle Sluip en sluip",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 Dood",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Activeer een Sculkschreeuwer",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Stille Afgrond",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Betreed het Diepe Duister"
+}

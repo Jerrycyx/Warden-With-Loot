@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Traces of the Ancient City",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Enter the Ancient City",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Recovering Soul",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Obtain a Recovery Compass",
+
+  "warden_with_loot.advancements.kill_warden.title": "Return to Silence",
+  "warden_with_loot.advancements.kill_warden.description": "Defeat the Warden\nSculk Shriekers won't trigger for you temporarily",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Echoes of the Empty City",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Play Music Disc 5 in the Ancient City",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Ancient Relics",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Steal treasures from the Ancient City",
+
+  "warden_with_loot.advancements.spawn_warden.title": "The Awakening",
+  "warden_with_loot.advancements.spawn_warden.description": "Disturb the colossal creature in the darkness",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Swift Sneaking",
+  "warden_with_loot.advancements.swift_sneak.description": "Equip leggings with Swift Sneak and sneak",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 Death",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Activate a Sculk Shrieker",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Abyss of Silence",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Enter the Deep Dark"
+}

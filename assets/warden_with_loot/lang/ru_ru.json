@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Следы древнего города",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Войти в древний город",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Восстановление Души",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Получить компас возврата",
+
+  "warden_with_loot.advancements.kill_warden.title": "Возвращение тишины",
+  "warden_with_loot.advancements.kill_warden.description": "Убить смотрителя\nНа некоторое время скульк-крикуны не будут активироваться вами",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Эхо пустого города",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Воспроизвести пластинку №5 в древнем городе",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Реликвии",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Украсть сокровища древнего города",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Пробуждение",
+  "warden_with_loot.advancements.spawn_warden.description": "Потревожить огромное существо во тьме",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Быстрое скрытное передвижение",
+  "warden_with_loot.advancements.swift_sneak.description": "Надеть поножи с зачарованием «Быстрое скрытное передвижение» и красться",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 смерти",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Активировать скульк-крикун",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Безмолвная бездна",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Войти в глубокую тьму"
+}

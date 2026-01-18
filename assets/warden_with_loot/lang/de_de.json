@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Spuren der Vergangenheit",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Betrete eine antike Stadt",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Genesende Seele",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Erhalte einen Bergungskompass",
+
+  "warden_with_loot.advancements.kill_warden.title": "Zurück zur Stille",
+  "warden_with_loot.advancements.kill_warden.description": "Besiege einen Wächter\nSkulk-Schreier werden dich für eine Weile nicht auslösen",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Echo der leeren Stadt",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Spiele Musikscheibe 5 in einer antiken Stadt ab",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Relikt",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Stiehl die Schätze der antiken Stadt",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Erwachen",
+  "warden_with_loot.advancements.spawn_warden.description": "Wecke das riesige Wesen in der Dunkelheit",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Flinker Schritt",
+  "warden_with_loot.advancements.swift_sneak.description": "Trage eine Hose mit Flinkem Schritt und schleiche",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 tot",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Aktiviere einen Skulk-Schreier",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Stille Tiefe",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Betrete die Tiefen Finsternis"
+}

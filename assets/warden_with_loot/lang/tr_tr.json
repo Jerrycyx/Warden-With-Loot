@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Antik Şehir Keşfi",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Antik Şehre gir",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "İyileşen Ruh",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Kurtarma Pusulası elde et",
+
+  "warden_with_loot.advancements.kill_warden.title": "Sessizliğe Dönüş",
+  "warden_with_loot.advancements.kill_warden.description": "Gözeticiyi yen\nBir süreliğine Sculk Çığlıkçıları seni tetiklemeyecek",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Hayalet Şehrin Yankısı",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Antik Şehirde 5 numaralı müzik plağını çal",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Kalıntı",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Antik Şehirdeki hazineyi çal",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Uyanış",
+  "warden_with_loot.advancements.spawn_warden.description": "Karanlıktaki dev yaratığı uyandır",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Çevik Sinsilik",
+  "warden_with_loot.advancements.swift_sneak.description": "Çevik Sinsilik büyülü pantolon giy ve sinsice hareket et",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 Ölüm",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Bir Sculk Çığlıkçısını tetikle",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Sessiz Uçurum",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Derin Karanlığa gir"
+}

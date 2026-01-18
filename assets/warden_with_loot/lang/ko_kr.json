@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "고대 도시 탐험",
+  "warden_with_loot.advancements.enter_ancient_city.description": "고대 도시에 들어가기",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "회복하는 영혼",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "회복 컴퍼스 획득하기",
+
+  "warden_with_loot.advancements.kill_warden.title": "다시 찾은 고요",
+  "warden_with_loot.advancements.kill_warden.description": "워든 처치하기\n일정 시간 동안 스컬크 비명체가 발동되지 않음",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "공허한 도시의 메아리",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "고대 도시에서 5번 음반 재생하기",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "유물",
+  "warden_with_loot.advancements.loot_ancient_city.description": "고대 도시의 보물을 훔치기",
+
+  "warden_with_loot.advancements.spawn_warden.title": "깨어남",
+  "warden_with_loot.advancements.spawn_warden.description": "어둠 속의 거대한 존재를 깨우기",
+
+  "warden_with_loot.advancements.swift_sneak.title": "신속한 숨기",
+  "warden_with_loot.advancements.swift_sneak.description": "신속한 숨기 마법이 부여된 각반을 장착하고 웅크리기",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3의 죽음",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "스컬크 비명체 한 번 발동시키기",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "고요의 심연",
+  "warden_with_loot.advancements.visit_deep_dark.description": "디다크에 들어가기"
+}

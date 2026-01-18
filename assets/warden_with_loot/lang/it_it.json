@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Tracce nella Città Antica",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Entra in una Città Antica",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Anima in Recupero",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Ottieni una Bussola del Recupero",
+
+  "warden_with_loot.advancements.kill_warden.title": "Ritorno al Silenzio",
+  "warden_with_loot.advancements.kill_warden.description": "Sconfiggi il Guardiano\nGli Shrieker di Scultura non si attiveranno per te per un po' di tempo",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Eco nella Città Abbandonata",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Riproduci il disco musicale 5 in una Città Antica",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Reliquia",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Rubi un tesoro da una Città Antica",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Risveglio",
+  "warden_with_loot.advancements.spawn_warden.description": "Disturbi la gigantesca creatura nell'oscurità",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Scatto Furtivo",
+  "warden_with_loot.advancements.swift_sneak.description": "Indossa dei gambali con Scatto Furtivo e muoviti in modalità furtiva",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 Morte",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Attiva uno Shrieker di Scultura",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Abisso Silenzioso",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Entra nelle Profondità Oscure"
+}

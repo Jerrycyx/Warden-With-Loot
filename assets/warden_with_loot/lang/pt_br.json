@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "Rastros da Cidade Antiga",
+  "warden_with_loot.advancements.enter_ancient_city.description": "Entrar em uma Cidade Antiga",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "Alma em Recuperação",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "Obter uma Bússola de Recuperação",
+
+  "warden_with_loot.advancements.kill_warden.title": "De Volta ao Silêncio",
+  "warden_with_loot.advancements.kill_warden.description": "Derrotar um Guardião\nOs Alarmistas de Sculk não serão ativados por você por um tempo",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "Eco na Cidade Vazia",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "Tocar o Disco 5 em uma Cidade Antiga",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "Relíquia",
+  "warden_with_loot.advancements.loot_ancient_city.description": "Roubar um tesouro de uma Cidade Antiga",
+
+  "warden_with_loot.advancements.spawn_warden.title": "Despertar",
+  "warden_with_loot.advancements.spawn_warden.description": "Perturbar a criatura colossal nas sombras",
+
+  "warden_with_loot.advancements.swift_sneak.title": "Passos Furtivos Velozes",
+  "warden_with_loot.advancements.swift_sneak.description": "Equipar calças com Passos Furtivos Velozes e se agachar",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3 de Morte",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "Ativar um Alarmista de Sculk",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "Abismo Silencioso",
+  "warden_with_loot.advancements.visit_deep_dark.description": "Entrar no Deep Dark"
+}

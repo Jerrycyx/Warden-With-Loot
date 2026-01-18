@@ -1,0 +1,28 @@
+{
+  "warden_with_loot.advancements.enter_ancient_city.title": "古城尋跡",
+  "warden_with_loot.advancements.enter_ancient_city.description": "進入遠古城市",
+
+  "warden_with_loot.advancements.hold_recovery_compass.title": "追魂",
+  "warden_with_loot.advancements.hold_recovery_compass.description": "獲得追溯指針",
+
+  "warden_with_loot.advancements.kill_warden.title": "重回寂靜",
+  "warden_with_loot.advancements.kill_warden.description": "擊敗監守者\n一段時間內幽匿尖嘯體不會被你觸發",
+
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.title": "空城迴響",
+  "warden_with_loot.advancements.use_disc_5_in_ancient_city.description": "在遠古城市播放5號音樂唱片",
+
+  "warden_with_loot.advancements.loot_ancient_city.title": "遺物",
+  "warden_with_loot.advancements.loot_ancient_city.description": "偷走遠古城市中的寶藏",
+
+  "warden_with_loot.advancements.spawn_warden.title": "甦醒",
+  "warden_with_loot.advancements.spawn_warden.description": "驚動黑暗中的龐然巨物",
+
+  "warden_with_loot.advancements.swift_sneak.title": "迅捷潛行",
+  "warden_with_loot.advancements.swift_sneak.description": "裝備帶有迅捷潛行的護腿並潛行",
+
+  "warden_with_loot.advancements.trigger_sculk_shrieker.title": "1/3死亡",
+  "warden_with_loot.advancements.trigger_sculk_shrieker.description": "啟動一次幽匿尖嘯體",
+
+  "warden_with_loot.advancements.visit_deep_dark.title": "寂靜深淵",
+  "warden_with_loot.advancements.visit_deep_dark.description": "進入深暗之域"
+}
