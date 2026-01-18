@@ -44,7 +44,7 @@ Below "Adventure" page:
 
 + Designed for survival and adventure, instead of automated farms - keep your farms ethical and keep the loot magical by playing fair!
 
-+ (3.0+) **Sculk Shriekers can no longer be activated for 10 minutes after killing a Warden**
++ (3.0+) **Sculk Shriekers can no longer be activated for 10 minutes after killing a Warden** (When [Modify Player Data]([Modify Player Data - Minecraft Mod](https://modrinth.com/mod/modify-player-data)) is available)
 
 Finally experience the thrill of conquering Minecraft's mightiest mob with rewards to match your courage! Perfect for hardcore survivors and adventurers.
 
