@@ -1,0 +1,102 @@
+{
+  "type": "minecraft:entity",
+  "random_sequence": "minecraft:entities/warden",
+  "pools": [
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_bundle"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_contents",
+          "component": "bundle_contents",
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "warden_with_loot:warden_raw/warden_extra_loot"
+            }
+          ]
+        },
+        {
+          "function": "minecraft:set_custom_data",
+          "tag": {
+            "warden_loot_todo": true
+          }
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:item",
+          "name": "minecraft:light_blue_bundle"
+        }
+      ],
+      "functions": [
+        {
+          "function": "minecraft:set_contents",
+          "component": "bundle_contents",
+          "entries": [
+            {
+              "type": "minecraft:loot_table",
+              "value": "warden_with_loot:warden_raw/warden_extra_loot"
+            }
+          ]
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        },
+        {
+          "condition": "minecraft:random_chance_with_enchanted_bonus",
+          "enchanted_chance": {
+            "type": "minecraft:linear",
+            "base": 0.05,
+            "per_level_above_first": 0.05
+          },
+          "enchantment": "minecraft:looting",
+          "unenchanted_chance": 0.15
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "chests/ancient_city"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    },
+    {
+      "rolls": 1,
+      "entries": [
+        {
+          "type": "minecraft:loot_table",
+          "value": "warden_with_loot:warden_raw/warden_extra_loot_unstack"
+        }
+      ],
+      "conditions": [
+        {
+          "condition": "minecraft:killed_by_player"
+        }
+      ]
+    }
+  ]
+}

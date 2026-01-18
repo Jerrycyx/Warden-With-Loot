@@ -1,0 +1,33 @@
+{
+  "parent": "warden_with_loot:deep_dark/spawn_warden",
+  "display": {
+    "icon": {
+      "id": "netherite_sword",
+      "components": {
+        "enchantment_glint_override": true
+      }
+    },
+    "title": {
+      "translate": "warden_with_loot.advancements.kill_warden.title"
+    },
+    "description": {
+      "translate": "warden_with_loot.advancements.kill_warden.description"
+    },
+    "frame": "challenge"
+  },
+  "criteria": {
+    "kill_warden": {
+      "trigger": "player_killed_entity",
+      "conditions": {
+        "entity": {
+          "type": "minecraft:warden"
+        }
+      }
+    }
+  },
+  "requirements": [
+    [
+      "kill_warden"
+    ]
+  ]
+}

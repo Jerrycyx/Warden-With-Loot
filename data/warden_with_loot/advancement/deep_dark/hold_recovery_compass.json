@@ -1,0 +1,32 @@
+{
+  "parent": "warden_with_loot:deep_dark/loot_ancient_city",
+  "display": {
+    "icon": {
+      "id": "recovery_compass"
+    },
+    "title": {
+      "translate": "warden_with_loot.advancements.hold_recovery_compass.title"
+    },
+    "description": {
+      "translate": "warden_with_loot.advancements.hold_recovery_compass.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "hold_recovery_compass": {
+      "trigger": "inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "items": "minecraft:recovery_compass"
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "hold_recovery_compass"
+    ]
+  ]
+}

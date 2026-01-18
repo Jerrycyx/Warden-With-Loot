@@ -1,0 +1,48 @@
+{
+  "parent": "warden_with_loot:deep_dark/loot_ancient_city",
+  "display": {
+    "icon": {
+      "id": "music_disc_5"
+    },
+    "title": {
+      "translate": "warden_with_loot.advancements.use_disc_5_in_ancient_city.title"
+    },
+    "description": {
+      "translate": "warden_with_loot.advancements.use_disc_5_in_ancient_city.description"
+    },
+    "frame": "goal"
+  },
+  "criteria": {
+    "use_disc_5_in_ancient_city": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {
+              "biomes": "minecraft:deep_dark",
+              "block": {
+                "blocks": "minecraft:jukebox"
+              }
+            }
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "predicates": {
+                "minecraft:jukebox_playable": {
+                  "song": "5"
+                }
+              }
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "requirements": [
+    [
+      "use_disc_5_in_ancient_city"
+    ]
+  ]
+}

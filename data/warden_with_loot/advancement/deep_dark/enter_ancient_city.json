@@ -1,0 +1,38 @@
+{
+  "parent": "warden_with_loot:deep_dark/visit_deep_dark",
+  "display": {
+    "icon": {
+      "id": "minecraft:reinforced_deepslate"
+    },
+    "title": {
+      "translate": "warden_with_loot.advancements.enter_ancient_city.title"
+    },
+    "description": {
+      "translate": "warden_with_loot.advancements.enter_ancient_city.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "enter_ancient_city": {
+      "trigger": "minecraft:location",
+      "conditions": {
+        "player": [
+          {
+            "condition": "minecraft:entity_properties",
+            "entity": "this",
+            "predicate": {
+              "location": {
+                "structures": "minecraft:ancient_city"
+              }
+            }
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "enter_ancient_city"
+    ]
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "parent": "warden_with_loot:deep_dark/loot_ancient_city",
+  "display": {
+    "icon": {
+      "id": "minecraft:diamond_leggings",
+      "components": {
+        "enchantments": {
+          "minecraft:swift_sneak": 3
+        }
+      }
+    },
+    "title": {
+      "translate": "warden_with_loot.advancements.swift_sneak.title"
+    },
+    "description": {
+      "translate": "warden_with_loot.advancements.swift_sneak.description"
+    },
+    "frame": "task"
+  },
+  "criteria": {
+    "is_swift_sneaking": {
+      "trigger": "tick",
+      "conditions": {
+        "player": [
+          {
+            "condition":"all_of",
+            "terms": [
+              {
+                "condition": "entity_properties",
+                "entity": "this",
+                "predicate": {
+                  "flags": {
+                    "is_sneaking": true,
+                    "is_on_ground": true
+                  }
+                }
+              },
+              {
+                "condition":"any_of",
+                "terms": [
+                  {
+                    "condition": "entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "equipment": {
+                        "legs": {
+                          "components": {
+                            "enchantments": {
+                              "minecraft:swift_sneak": 1
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "condition": "entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "equipment": {
+                        "legs": {
+                          "components": {
+                            "enchantments": {
+                              "minecraft:swift_sneak": 2
+                            }
+                          }
+                        }
+                      }
+                    }
+                  },
+                  {
+                    "condition": "entity_properties",
+                    "entity": "this",
+                    "predicate": {
+                      "equipment": {
+                        "legs": {
+                          "components": {
+                            "enchantments": {
+                              "minecraft:swift_sneak": 3
+                            }
+                          }
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  },
+  "requirements": [
+    [
+      "is_swift_sneaking"
+    ]
+  ]
+}

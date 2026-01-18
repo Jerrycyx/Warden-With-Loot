@@ -1,0 +1,1 @@
+execute as @e[nbt={Item:{components:{"minecraft:custom_data": {warden_loot_todo: 1b}}}}] at @s run function warden_with_loot:warden_killed
